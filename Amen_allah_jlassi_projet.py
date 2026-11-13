@@ -84,3 +84,5 @@ def main():
             print("Au revoir !")
         else:
             print("Erreur : choix inexistant (0 a 4).")
+            
+main()
